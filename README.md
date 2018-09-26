@@ -5,10 +5,13 @@ It uses **Indian Number System** (i.e. lakhs and crores).
 Below is the installation, usage and other details of this module.
 
 ## Installation
-
+### Manual
+* Download the **word_to_num.py**
+* Paste it in your project location
+* Import and use
+### Using pip
 Please ensure that you have **updated pip** to the latest version before installing word2number.
 
-You can install the module using Python Package Index using the below command.
 ```
     pip install wordtonum
 ```
