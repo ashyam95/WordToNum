@@ -13,7 +13,7 @@ Below is the installation, usage and other details of this module.
 Please ensure that you have **updated pip** to the latest version before installing word2number.
 
 ```
-    pip install wordtonum
+    pip install WordToNum
 ```
 
 ## Usage
