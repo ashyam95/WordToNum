@@ -20,7 +20,7 @@ Please ensure that you have **updated pip** to the latest version before install
 
 Import the module
 ```
-    from wordtonum import WordToNum
+    from WordToNum.word_to_num import WordToNum
 ```
 Instantiate the object
 ```
