@@ -13,18 +13,18 @@ Below is the installation, usage and other details of this module.
 Please ensure that you have **updated pip** to the latest version before installing word2number.
 
 ```
-    pip install WordToNum
+pip install WordToNum
 ```
 
 ## Usage
 
 Import the module
 ```
-    from WordToNum.word_to_num import WordToNum
+from WordToNum.word_to_num import WordToNum
 ```
 Instantiate the object
 ```
-    wtn = WordToNum()
+wtn = WordToNum()
 ```
 Then you can use the **to_num** method from this class to convert a string to numeric digits, as shown below.
 ```
