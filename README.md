@@ -60,7 +60,7 @@ If you find any bugs/errors in the usage of above code, please raise an issue th
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2016 Akshay Nagpal (https://github.com/akshaynagpal)
+Copyright (c) 2016 Ashyam Zubair (https://github.com/ashyam95)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
